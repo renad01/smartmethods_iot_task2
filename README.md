@@ -7,6 +7,9 @@
 
 ## Learning References :
 https://makeabilitylab.github.io/physcomp/communication/web-serial.html#the-web-serial-api
+
 https://web.dev/serial/
+
 https://www.youtube.com/watch?v=U-aiyHPnjvw&t=46s
+
 https://www.hackster.io/obniz/move-servo-motor-by-voice-recognition-bf95b2
